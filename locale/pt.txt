@@ -1,0 +1,34 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_5FA2CB8B_9F6E_5F9F_41C5_670CF9002891.mp3Url = media/audio_20CCF4D1_9F6E_C98B_41D3_32F751486AA6_pt.mp3
+audiores_B261F24D_A0A2_26A4_41E3_16DA23C70FE5.mp3Url = media/audio_B2EFFF26_A0A2_3EE4_41D8_70E6B25EB4F1_pt.mp3
+
+### Title
+panorama_95BF7663_9E9E_488F_41D8_E8C75FE7C639.label = IMG_20250703_113005_00_ECO01
+panorama_95BF0173_9E9E_488F_41C4_41D96B17EDCE.label = IMG_20250703_114336_00_ECO05
+panorama_95BF0577_9E9E_4B77_41D7_B185D230C878.label = IMG_20250703_140855_00_ECO06
+panorama_95BEB108_9E9E_4899_41B6_CBCA950DFB95.label = IMG_20250703_141026_00_ECO07
+panorama_95BF1B98_9E9E_3FB9_41E0_EA17228B7828.label = IMG_20250703_141102_00_ECO08
+panorama_95B94290_9E99_C989_41CD_9AD6974942CB.label = IMG_20250703_141149_00_ECO08
+panorama_95B90D6D_9E99_F89B_41A7_EFCC8B17FB57.label = IMG_20250703_141301_00_ECO10
+panorama_95BA2405_9E99_C88B_41A5_FCBA574CA236.label = IMG_20250703_141516_00_ECO02
+
+## Skin
+
+### Image
+Image_B057FEC6_A0A2_1FA7_41D9_270410C963CF.url = skin/Image_B057FEC6_A0A2_1FA7_41D9_270410C963CF_pt.jpg
+Image_B233F2F0_A0A1_E77B_41D0_80BC7EAB4817.url = skin/Image_B233F2F0_A0A1_E77B_41D0_80BC7EAB4817_pt.jpg
+
+### Multiline Text
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = ECO MARCENARIA O MELHOR EM MOVEIS PLANEJADO
+
+### Title
+tour.name = ECO MARCENARIA DESIGNER
